@@ -11667,5 +11667,12 @@
         "author": "rooyca",
         "description": "Read, query and work with JSON.",
         "repo": "rooyca/query-json"
+    },
+    {
+        "id": "plot-vectors-graphs",
+        "name": "Plot Vectors and Graphs",
+        "author": "Nicole Tan YiTong",
+        "description": "Generates graphs and vectors.",
+        "repo": "nicoletanyt/obsidian-plugin-graphs"
     }
 ]
